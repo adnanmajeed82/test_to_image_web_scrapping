@@ -1,2 +1,2 @@
 # test_to_image_web_scrapping
-test_to_image_web_scrapping
+text_to_image_web_scrapping
